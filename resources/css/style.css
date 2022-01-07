@@ -637,7 +637,7 @@ section {
   text-align: center;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 15px rgba(250, 248, 248, 0.1);
 }
 
 .services .icon-box .icon {
@@ -677,7 +677,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #191919;
+  color: #fff;
 }
 
 .services .icon-box p {
@@ -1037,9 +1037,9 @@ section {
 .team .member {
   text-align: center;
   margin-bottom: 20px;
-  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 12px 0px rgba(250, 247, 247, 0.1);
   padding: 30px 20px;
-  background: #fff;
+  background: #030b10;
 }
 
 .team .member img {
@@ -1249,7 +1249,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #0c0c0c;
+  background: #041018;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -1261,7 +1261,7 @@ section {
 
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
-  background: #191919;
+  background: #030b10;
   color: #fff;
   border-top: 4px solid #084368;
   text-align: center;
